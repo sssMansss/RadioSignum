@@ -1,4 +1,5 @@
 # RadioSignum
+[**Welcoming Slides**](https://docs.google.com/presentation/d/15j-UUbzhoQmIVjSJGpzE6Ifp2r2YiqhNnRsktcgfCGQ/edit?usp=drive_link)
 
 # Project Guide
 1. Find a topic
