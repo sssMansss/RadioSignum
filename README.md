@@ -1,7 +1,7 @@
 # RadioSignum
 
 # Project Guide
-1. Select a topic
+1. Find a topic
 2. Make a team, fill the data [here](https://docs.google.com/spreadsheets/d/1NVhpOrhG6aVMCJEGgakKXI2lQBb5dzSlfh5LbInXTc4/edit?usp=drive_link)
 3. Join the group chat
 4. Run the project
