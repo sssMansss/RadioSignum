@@ -19,4 +19,4 @@
 
 
 **HackRF**
-* [Documentations](https://hackrf.readthedocs.io/en/latest/index.html#)
+* [Documentation](https://hackrf.readthedocs.io/en/latest/index.html#)
