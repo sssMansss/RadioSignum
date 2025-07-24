@@ -10,3 +10,7 @@
 
 * [ShareTechnote](https://www.sharetechnote.com/)
 * [telecomHall FORUM](https://www.telecomhall.net/)
+
+**Papers**
+
+* [Best Readings | IEEE Comsoc](https://www.comsoc.org/publications/best-readings)
