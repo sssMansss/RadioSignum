@@ -24,7 +24,7 @@
 
 
 
-# References
+# Learning Material
 **Books**
 
 **Wireless Communications:**
@@ -45,3 +45,10 @@
 
 **HackRF**
 * [Documentation](https://hackrf.readthedocs.io/en/latest/index.html#)
+
+
+**Courses**
+* [Linear Algebra](https://youtube.com/playlist?list=PL221E2BBF13BECF6C&si=RwY217479Uj_GfcD)
+* [Introduction to Probability](https://youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&si=42WCdgKw-bj4gXko)
+* [Signal and Systems](https://www.iaincollings.com/signals-and-systems)
+* [Fundamentals of Wireless Communications](https://youtube.com/playlist?list=PLbbCsk7MUIGfynU-ONMbe-yZXWTgTX1YP&si=Y0Gol1opr2wnR_A7)
